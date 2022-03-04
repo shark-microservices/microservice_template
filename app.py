@@ -8,10 +8,12 @@ registry = StationRegistry()
 
 
 def get_station_list():
+    """Return documentation here."""
     return registry.get_list()
 
 
 def get_station(station_id):
+    """Return documentation here."""
     return registry.get(station_id)
 
 
