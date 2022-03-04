@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 # Copyright (c) 2022 SMHI, Swedish Meteorological and Hydrological Institute.
 # License: MIT License (see LICENSE.txt or http://opensource.org/licenses/mit).
+"""
+Documentation here.
+"""
 import os
 import json
 
